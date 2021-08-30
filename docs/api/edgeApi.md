@@ -17,7 +17,7 @@ LogicFlow 的内置连线类型包括
 | id    | String |  ✅  | 边 id|
 | type | String | ✅ | 边类型 |
 | sourceNodeId | string | ✅ | 开始节点Id |
-| sourceNodeId | string | ✅ | 结束节点Id |
+| targetNodeId | string | ✅ | 结束节点Id |
 | startPoint | Point | ✅ | 边的开始坐标 |
 | endPoint | Point | ✅ | 边的坐标 |
 | text | Object/String  |    | 边文本 |
